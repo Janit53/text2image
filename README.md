@@ -1,5 +1,8 @@
 A simple AI to generate and edit images.
 
 
-install required libraries: pip install requirements.txt
-run main.py using the command: streamlit run main.py
+Install required libraries:  
+`pip install -r requirements.txt`  
+Run the app:  
+`streamlit run main.py`
+
