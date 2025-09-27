@@ -1,11 +1,30 @@
-A simple AI to generate and edit images.
+# A simple AI to generate and edit images.
+
+This project provides a simple AI tool to generate and edit images.
+
+---
+
+## 🚀 Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+```
 
 
 Install required libraries:  
-"""pip install -r requirements.txt"""
+```bash
+pip install -r requirements.txt
+```
 
 Run the app:  
-``streamlit run main.py``
+```bash
+streamlit run main.py
+```
+
 
 
 
