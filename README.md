@@ -10,7 +10,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Janit53/text2image.git
-cd your-repo-name
+cd text2image
 pip install -r requirements.txt
 ```
 
@@ -24,6 +24,7 @@ Run the app:
 ```bash
 streamlit run main.py
 ```
+
 
 
 
